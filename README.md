@@ -1,4 +1,7 @@
 # Automatized Webhook for Birger
+
+<img width="250px" src="birger.jpg"/>
+
 This repository is created for Birger Discord Bot.
 
 ## Instructions :
